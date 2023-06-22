@@ -32,11 +32,11 @@ Markdown format:
   * [Reference and Acknowledgement](#reference-and-acknowledgement)
 
 ## Dataset
-| Dataset Name | Description | Source |
-|--------------|-------------|--------|
-| Dataset 1    | Description of Dataset 1 | [Link to Dataset 1](https://example.com/dataset1) |
-| Dataset 2    | Description of Dataset 2 | [Link to Dataset 2](https://example.com/dataset2) |
-| Dataset 3    | Description of Dataset 3 | [Link to Dataset 3](https://example.com/dataset3) |
+| Dataset | #Audios | Dur(h) | MD(s) | AD(s) | QAS | L | #Ques | #Ans | Train | Val  | Test |
+|---------|---------|--------|-------|-------|-----|---|-------|------|-------|------|------|
+| ClothoAQA~[1] | 1991 | 12.44 | 30 | 21 | C | E | 9153 | 830 | 1174 | 344 | 473 |
+| CLEAR~[2] | 50000 | 3.12 | 0.4 | 0.25 | P | E | 130957 | 47 | 35000 | 7500 | 7500 |
+| DAQA~[3] | 100000 | 2244.4 | 178.2 | 80.8 | P | E | 599294 | 36 | 80000 | 10000 | 10000 |
 
 ## Papers
 ### 2022

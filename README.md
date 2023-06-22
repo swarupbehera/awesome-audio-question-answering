@@ -7,7 +7,7 @@
 A curated list of **Audio Question Answering(AQA)** and related area. 
 
 ## Contributing
-Please feel free to send me [pull requests](https://github.com/jokieleung/awesome-visual-question-answering/pulls) or email (leungjokie@gmail.com) to add links.
+Please feel free to send me [pull requests](https://github.com/swarupbehera/awesome-audio-question-answering/pulls) or email (swarupranjanbehera@gmail.com) to add links.
 Markdown format:
 
 ```markdown
@@ -16,7 +16,7 @@ Markdown format:
 
 ## Change Log
 
-- Mar.3rd,2019 The First version released.
+- June.22nd,2023 The First version released.
 
 ## Table of Contents
   * [Contributing](#contributing)

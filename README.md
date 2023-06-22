@@ -22,6 +22,7 @@ Markdown format:
   * [Contributing](#contributing)
   * [Change Log](#change-log)
   * [Table of Contents](#table-of-contents)
+  * [Dataset](#Dataset)
   * [Papers](#papers)
      * [2023](#2023)
         - [INTERSPEECH 2023](#INTERSPEECH-2023)
@@ -52,7 +53,7 @@ Markdown format:
 - [Multi-Scale Attention for Audio Question Answering](https://arxiv.org/abs/2305.17993) - Guangyao Li et al., **INTERSPEECH**.
 
 #### ARXIV 2023
-- [Attention-Based Methods For Audio Question Answering](https://arxiv.org/abs/2305.19769) - Parthasaarathy Sudarsanam and Tuomas Virtanen, **ARXIV**.
+- [Attention-Based Methods For Audio Question Answering](https://arxiv.org/abs/2305.19769) - Parthasaarathy Sudarsanam et al., **ARXIV**.
 
 ### 2022
 
@@ -62,7 +63,7 @@ Markdown format:
 ### 2020
 
 #### IEEE TASLP 2020
-- [Temporal Reasoning via Audio Question Answering](https://ieeexplore.ieee.org/document/9145807) - Haytham M. Fayek and Justin Johnson, **IEEE TASLP**.
+- [Temporal Reasoning via Audio Question Answering](https://ieeexplore.ieee.org/document/9145807) - Haytham M. Fayek et al., **IEEE TASLP**.
 
 ### 2018
 
@@ -79,6 +80,3 @@ Stay tuned...
 To the extent possible under law, [Swarup](https://github.com/swarupbehera/) has waived all copyright and related or neighboring rights to this work.
 
 ## Reference and Acknowledgement
-
-
-Really appreciate for their contributions in this area.

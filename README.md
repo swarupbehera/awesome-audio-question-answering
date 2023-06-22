@@ -16,7 +16,7 @@ Markdown format:
 
 ## Change Log
 
-- June.22nd,2023 The First version released.
+- v1: 2023-06-22
 
 ## Table of Contents
   * [Contributing](#contributing)

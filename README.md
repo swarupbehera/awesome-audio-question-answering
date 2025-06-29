@@ -16,7 +16,7 @@ Markdown format:
 
 ## Change Log
 
-- v1: 2023-06-22
+- v2: 2025-06-29
 
 ## Table of Contents
   * [Contributing](#contributing)
@@ -24,15 +24,11 @@ Markdown format:
   * [Table of Contents](#table-of-contents)
   * [Dataset](#Dataset)
   * [Papers](#papers)
+     * [2025](#2025)
      * [2023](#2023)
-        - [INTERSPEECH 2023](#INTERSPEECH-2023)
-        - [ARXIV 2023](#ARXIV-2023)
      * [2022](#2022)
-        - [EUSIPCO 2022](#EUSIPCO-2022)
      * [2020](#2020)
-        - [IEEE TASLP 2020](#IEEE-TASLP-2020)
      * [2018](#2018)
-        - [IEEE DATAPORT 2018](#IEEE-DATAPORT-2018)
   * [AQA Challenge Leaderboard](#aqa-challenge-leaderboard)
   * [Licenses](#licenses)
   * [Reference and Acknowledgement](#reference-and-acknowledgement)
@@ -46,29 +42,29 @@ Markdown format:
 
 ## Papers
 
+### 2025
+- ***_2025-10-29_***: [MULTI-DOMAIN AUDIO QUESTION ANSWERING TOWARD ACOUSTIC CONTENT REASONING IN THE DCASE 2025 CHALLENGE](https://arxiv.org/pdf/2505.07365) – Chao-Han Huck Yang (Technical Report, **DCASE**)
+- ***_2025-05-14_***: [Reinforcement Learning Outperforms Supervised Fine-Tuning: A Case Study on Audio Question Answering](https://arxiv.org/pdf/2503.11197) – Gang Li
+- ***_2025-04-30_***: [Enhancing Temporal Understanding in Audio Question Answering for Large Audio Language Models](https://aclanthology.org/2025.naacl-industry.78.pdf) – Arvind Krishna Sridhar (**NAACL Industry Track**)
+
 ### 2023
 
-#### INTERSPEECH 2023
-- [Towards Multi-Lingual Audio Question Answering](https://github.com/swarupbehera/mAQA) - Swarup Ranjan Behera et al., **INTERSPEECH**.
-- [Multi-Scale Attention for Audio Question Answering](https://arxiv.org/abs/2305.17993) - Guangyao Li et al., **INTERSPEECH**.
-
-#### ARXIV 2023
-- [Attention-Based Methods For Audio Question Answering](https://arxiv.org/abs/2305.19769) - Parthasaarathy Sudarsanam et al., **ARXIV**.
+- ***_2023-08-20_***: [Towards Multi-Lingual Audio Question Answering](https://github.com/swarupbehera/mAQA) – Swarup Ranjan Behera et al., **INTERSPEECH**
+- ***_2023-08-20_***: [Multi-Scale Attention for Audio Question Answering](https://arxiv.org/abs/2305.17993) – Guangyao Li et al., **INTERSPEECH**
+- ***_2023-05-31_***: [Attention-Based Methods For Audio Question Answering](https://arxiv.org/abs/2305.19769) – Parthasaarathy Sudarsanam et al., **ARXIV**
 
 ### 2022
 
-#### EUSIPCO 2022
-- [Clotho-aqa: A crowdsourced dataset for audio question answering](https://eurasip.org/Proceedings/Eusipco/Eusipco2022/pdfs/0001140.pdf) - Samuel Lipping et al., **EUSIPCO**.
+- ***_2022-08-29_***: [Clotho-aqa: A crowdsourced dataset for audio question answering](https://eurasip.org/Proceedings/Eusipco/Eusipco2022/pdfs/0001140.pdf) – Samuel Lipping et al., **EUSIPCO**
 
 ### 2020
 
-#### IEEE TASLP 2020
-- [Temporal Reasoning via Audio Question Answering](https://ieeexplore.ieee.org/document/9145807) - Haytham M. Fayek et al., **IEEE TASLP**.
+- ***_2020-06-01_***: [Temporal Reasoning via Audio Question Answering](https://ieeexplore.ieee.org/document/9145807) – Haytham M. Fayek et al., **IEEE TASLP**
 
 ### 2018
 
-#### IEEE DATAPORT 2018
-- [CLEAR: A Dataset for Compositional Language and Elementary Acoustic Reasoning](https://arxiv.org/abs/1811.10561) - Jerome Abdelnour et al., **IEEE DATAPORT**.
+- ***_2018-11-26_***: [CLEAR: A Dataset for Compositional Language and Elementary Acoustic Reasoning](https://arxiv.org/abs/1811.10561) – Jerome Abdelnour et al., **IEEE DATAPORT**
+
 
 ## AQA Challenge Leaderboard
 Stay tuned...
